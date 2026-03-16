@@ -2,7 +2,7 @@
 <!--        PROFILE HEADER         -->
 <!-- ============================= -->
 
-<h1 align="center">Eldaniz Ibrahimli / @ibrahimovws </h1>
+<h1 align="center">Eldaniz İbrahimli / @ibrahimovws </h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjAzNzE1YjN5cWR0YmxzNWh2MnI1aWZybDRiNjJ0ZmJyb2k4N2M5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/20yDiQm5ZwzIfzO5bA/giphy.gif" width="420"/>
