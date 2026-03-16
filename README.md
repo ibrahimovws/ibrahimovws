@@ -2,10 +2,10 @@
 <!--        PROFILE HEADER         -->
 <!-- ============================= -->
 
-<h1 align="center">Eldaniz Ibrahimli</h1>
+<h1 align="center">Eldaniz Ibrahimli / ibrahimovws </h1>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk2aGFncm1oNm90c3BnNTczaG84OGRrazI4c3d4YmtvbnoxN3B3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G4Vq2JYXFTGuQkE2vJ/giphy.gif" width="420"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB2Y2g5Mnd2OHM3cjdzdWUxcDRqcWF5cXRscjVmemd4bG4zaWhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OnORU2QlYQgPXyTLO/giphy.gif" width="420"/>
 </p>
 
 <h3 align="center">
