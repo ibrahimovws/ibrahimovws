@@ -5,7 +5,7 @@
 <h1 align="center">Eldaniz Ibrahimli / ibrahimovws </h1>
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB2Y2g5Mnd2OHM3cjdzdWUxcDRqcWF5cXRscjVmemd4bG4zaWhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OnORU2QlYQgPXyTLO/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjAzNzE1YjN5cWR0YmxzNWh2MnI1aWZybDRiNjJ0ZmJyb2k4N2M5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/20yDiQm5ZwzIfzO5bA/giphy.gif" width="420"/>
 </p>
 
 <h3 align="center">
